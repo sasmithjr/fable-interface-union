@@ -3,3 +3,4 @@ bin/
 
 *.fs.js
 **/jsbuild/*
+fable_modules/*
