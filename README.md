@@ -8,9 +8,9 @@ When an interface is defined in one file (see `Source.fs`) and the interface is 
 
 ## System information
 
-Operation system: macOS 14.0
-.NET SDK: 7.0.401 and 8.0.100-rc.2.23502.2
-Fable compiler: 4.1.3 and 4.2.2
+* Operation system: macOS 14.0
+* .NET SDK: 7.0.401 and 8.0.100-rc.2.23502.2
+* Fable compiler: 4.1.3 and 4.2.2
 
 ## Reproduction steps
 
